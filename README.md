@@ -109,7 +109,7 @@ pip install pandas numpy matplotlib seaborn
 ## 👨‍💻 Author
 Malkeet Singh  
 Aspiring Data Analyst  
-Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL  
+Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL, Powerbi.
 
 ---
 
