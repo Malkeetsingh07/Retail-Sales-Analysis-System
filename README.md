@@ -83,7 +83,7 @@ Retail Sales Analysis System/
 - Monthly Sales Trend  
 - Top 10 Products  
 - Sales by Customer Segment
-  <img src="Images/Sales%20by%20Segment.png" width="800">
+  ![Sales by Segment](Images/Sales%20by%20Segment.png)
 ---
 
 ## 🔍 Key Insights
