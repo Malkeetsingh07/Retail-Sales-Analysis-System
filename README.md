@@ -82,7 +82,8 @@ Retail Sales Analysis System/
 - Profit by Region  
 - Monthly Sales Trend  
 - Top 10 Products  
-- Sales by Customer Segment  
+- Sales by Customer Segment
+  <img src="Images/Sales%20by%20Segment.png" width="800">
 ---
 
 ## 🔍 Key Insights
