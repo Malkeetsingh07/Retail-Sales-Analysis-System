@@ -1,4 +1,4 @@
-![Project Image](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=800&auto=format&fit=crop)
+<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=100&w=3840&auto=format&fit=crop" width="100%" />
 
 
 # 📊 Retail Sales Analysis System (Python Project)
