@@ -1,3 +1,6 @@
+![Project Image](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=800&auto=format&fit=crop)
+
+
 # 📊 Retail Sales Analysis System (Python Project)
 
 ## 🧾 Project Overview
