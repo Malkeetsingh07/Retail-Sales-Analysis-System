@@ -1,7 +1,6 @@
-<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=100&w=3840&auto=format&fit=crop" width="100%" />
-
-
 # 📊 Retail Sales Analysis System (Python Project)
+
+<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=100&w=3840&auto=format&fit=crop" width="100%" />
 
 ## 🧾 Project Overview
 This project is a complete Retail Sales Analysis System built using Python in a Jupyter Notebook. It analyzes the Global Superstore dataset to extract meaningful business insights such as sales performance, profit trends, customer behavior, and product analysis. The goal is to understand how data can be used to improve business decisions.
